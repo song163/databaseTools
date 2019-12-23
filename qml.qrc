@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>delete.qml</file>
+        <file>component/IMButton.qml</file>
+        <file>add.qml</file>
+        <file>deletecontext.qml</file>
+        <file>exportcontext.qml</file>
+        <file>importcontext.qml</file>
+        <file>addcolum.qml</file>
+        <file>component/IMComBoxCustom.qml</file>
+        <file>component/IMLineButton.qml</file>
+        <file>init.qml</file>
+        <file>component/IMMessageDialog.qml</file>
+        <file>deletecolum.qml</file>
+    </qresource>
+</RCC>
